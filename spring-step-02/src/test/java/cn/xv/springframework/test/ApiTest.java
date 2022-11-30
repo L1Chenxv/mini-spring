@@ -1,10 +1,10 @@
-package test;
+package cn.xv.springframework.test;
 
 
 import cn.xv.springframework.beans.factory.config.BeanDefinition;
 import cn.xv.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.junit.Test;
-import test.bean.UserService;
+import cn.xv.springframework.test.bean.UserService;
 
 
 /**

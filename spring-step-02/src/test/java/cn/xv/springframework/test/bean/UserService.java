@@ -1,4 +1,4 @@
-package test.bean;
+package cn.xv.springframework.test.bean;
 
 /**
  * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
